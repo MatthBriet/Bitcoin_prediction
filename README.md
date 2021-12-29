@@ -63,7 +63,7 @@ Le but du projet est d'utiliser nos connaissances afin de comparer les prédicti
 
 ## Prise en main 
 ### Instruction pour installation 
-On commence, pour travailler sur le projet ou le tester, par créer une copie locale avec `git clone https://github.com/TanguyColleville/Trading_Bot_BTC.git`  
+On commence, pour travailler sur le projet ou le tester, par créer une copie locale avec `git clone https://github.com/MatthBriet/Bitcoin_prediction.git`  
 Ensuite, afin d'importer les modules nécessaires pour faire fonctionner correctement les programmes, il faut, dans une console Python, taper la requête " pip install -r requirements.txt " et simplement appuyer sur "entrée".
 Nota Bene : il est préférable de travailler dans un environnement virtuel. Pour ce faire, il vous faut suivre ces étapes :  
 
